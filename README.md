@@ -17,12 +17,6 @@
 This project simulates **elliptical orbits** for multiple bodies around the Sun using **Kepler’s equation**, rendered with `matplotlib`.  
 It’s fully offline, non-interactive (Agg backend), and exports plots, animation (optional GIF), and tidy ephemeris data in Excel.
 
-Perfect as a **portfolio project** to demonstrate:
-- Clean, modular Python code
-- Scientific plotting
-- Basic orbital mechanics
-- Data export and visualization
-
 ---
 
 ## ⚙️ Features
